@@ -1,0 +1,45 @@
+Checking dataset: D:\HTTT\Trí tuệ nhân tạo\TriTueNhanTao_NDVPLPTGT\data
+
+--- train ---
+Images : 20438
+Labels : 20438
+Objects: 170803
+  car       : 113333
+  motorbike : 54210
+  bus       : 1825
+  truck     : 1435
+Status: OK
+
+--- val ---
+Images : 5839
+Labels : 5839
+Objects: 48482
+  car       : 32211
+  motorbike : 15337
+  bus       : 532
+  truck     : 402
+Status: OK
+
+--- test ---
+Images : 2921
+Labels : 2921
+Objects: 23898
+  car       : 15876
+  motorbike : 7586
+  bus       : 232
+  truck     : 204
+Status: OK
+
+=== Summary ===
+Images : 29198
+Labels : 29198
+Objects: 243183
+
+Objects by class:
+  car       : 161420
+  motorbike : 77133
+  bus       : 2589
+  truck     : 2041
+
+Problems: 0
+Dataset looks good.

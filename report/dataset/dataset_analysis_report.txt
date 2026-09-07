@@ -1,0 +1,20 @@
+=== Dataset Analysis ===
+
+Total images : 29198
+Total objects: 243183
+
+Dataset split:
+  train:  20438 (70.00%)
+  val  :   5839 (20.00%)
+  test :   2921 (10.00%)
+
+Class distribution:
+  car       : 161420 (66.38%)
+  motorbike :  77133 (31.72%)
+  bus       :   2589 (1.06%)
+  truck     :   2041 (0.84%)
+
+Image resolutions:
+  640x360: 29198 (100.00%)
+
+Largest/smallest class ratio: 79.09x
